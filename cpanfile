@@ -101,6 +101,7 @@ requires 'MooseX::Types::Structured';
 requires 'MooseX::Types::URI';
 requires 'Mozilla::CA';
 requires 'Net::Twitter';
+requires 'PAUSE::Permissions';
 requires 'Parse::CPAN::Packages::Fast', '0.04';
 requires 'Parse::CSV';
 requires 'Parse::PMFile', '0.29';
