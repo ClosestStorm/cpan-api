@@ -4468,6 +4468,25 @@ DISTRIBUTIONS
       aliased 0
       namespace::autoclean 0.12
       namespace::clean 0
+  MooseX-StrictConstructor-0.19
+    pathname: D/DR/DROLSKY/MooseX-StrictConstructor-0.19.tar.gz
+    provides:
+      MooseX::StrictConstructor 0.19
+      MooseX::StrictConstructor::Trait::Class 0.19
+      MooseX::StrictConstructor::Trait::Method::Constructor 0.19
+    requirements:
+      B 0
+      ExtUtils::MakeMaker 6.30
+      Moose 0.94
+      Moose::Exporter 0
+      Moose::Role 0
+      Moose::Util::MetaRole 0
+      Test::Fatal 0
+      Test::Moose 0
+      Test::More 0.88
+      namespace::autoclean 0
+      strict 0
+      warnings 0
   MooseX-Traits-Pluggable-0.12
     pathname: R/RK/RKITOVER/MooseX-Traits-Pluggable-0.12.tar.gz
     provides:
@@ -4911,6 +4930,26 @@ DISTRIBUTIONS
       Test::Trap 0
       overload 0
       parent 0
+  PAUSE-Permissions-0.10
+    pathname: N/NE/NEILB/PAUSE-Permissions-0.10.tar.gz
+    provides:
+      PAUSE::Permissions 0.10
+      PAUSE::Permissions::Entry 0.10
+      PAUSE::Permissions::EntryIterator 0.10
+      PAUSE::Permissions::Module 0.10
+      PAUSE::Permissions::ModuleIterator 0.10
+    requirements:
+      Carp 0
+      ExtUtils::MakeMaker 0
+      File::HomeDir 0
+      File::Spec::Functions 0
+      HTTP::Date 0
+      HTTP::Tiny 0
+      Moo 0
+      autodie 0
+      feature 0
+      strict 0
+      warnings 0
   POSIX-strftime-Compiler-0.31
     pathname: K/KA/KAZEBURO/POSIX-strftime-Compiler-0.31.tar.gz
     provides:
